@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 1em auto;
+  height: 35em;
+  width: 20em;
+  text-align: center;
+  padding: 1em 0em;
+  background-color: #ffffff;
+  border-radius: 1em;
+}
+
+img {
+  height: 8em;
+  border-radius: 50%;
+  box-shadow: 5px 5px 10px #5c5c5c;
+}
+
+.name, .bio, .phone, .email {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #7cc9ec;
+  padding: 1em 0em;
+}

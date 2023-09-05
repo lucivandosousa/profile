@@ -1,0 +1,18 @@
+.links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+  align-items: center;
+  padding: 1em;
+}
+
+.links a {
+  text-decoration: none;
+  font-weight: bold;
+  padding: 0.5em;
+  width: 10em;
+  background-color: #62b0d4;
+  border-radius: 0.5em;
+  color: #ffffff;
+  box-shadow: 5px 5px 10px #5c5c5c;
+}
