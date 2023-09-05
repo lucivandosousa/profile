@@ -8,4 +8,4 @@ Projeto desenvolvido em React no qual eu pude criar componentes funcionais e faz
 
 ## 🔗 Links
 
-[URL da Aplicação](https://jsonplaceholder.typicode.com/posts)
+[URL da Aplicação](https://github.com/lucivandosousa/profile)
