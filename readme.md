@@ -8,4 +8,4 @@ Projeto desenvolvido em React no qual eu pude criar componentes funcionais e faz
 
 ## 🔗 Links
 
-[URL da Aplicação](https://github.com/lucivandosousa/profile)
+[URL da Aplicação](https://lucivandosousa.github.io/profile/)
